@@ -1,4 +1,4 @@
-name: Main Scheduler
+name: Main Scheduler2
 
 on:
   schedule:
